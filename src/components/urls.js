@@ -1,4 +1,4 @@
-const BASE_URL = "https://luke-grey-server.vercel.app";
+const BASE_URL = "https://king-greyapi2.vercel.app";
 
 export default BASE_URL;
 
